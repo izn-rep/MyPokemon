@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPokemon</string>
+    <string name="judul">Top 10 Pokemon</string>
+    <string name="pokemon_name">Nama Pokemon</string>
+    <string name="detail">Detail</string>
+    <string name="my_name">Ikra Ilhamsyah Izani</string>
+    <string name="my_mail">izani.info@gmail.com</string>
+</resources>
